@@ -1,0 +1,23 @@
+StudyLabel,StudyName,SampleSize,Description,Paper
+Field Sample 1,RiotStudy,254,Online gamers (North America),"Kim et al., 2017"
+Field Sample 2,German,114,University students (Germany),"Engel et al., 2015"
+Field Sample 3,Technion2016,78,University students (six different continents),"Glikson et al., 2016"
+Field Sample 4,MBA2012,71,MBA students (US),"Woolley & Aggarwal, under review"
+Field Sample 5,Technion2015,48,University students (six different continents),
+Field Sample 6,Technion2017,45,University students (six different continents),"Glikson et al., 2019"
+Field Sample 7,MBA2015,43,MBA students (US),"Aggarwal & Woolley, 2018"
+Field Sample 8,MBA2014,42,MBA students (US),Unpublished
+Field Sample 9,USC,42,University students (US),"Labrecque et al., under review"
+Field Sample 10,FortSill,39,Military (US),Unpublished
+Field Sample 11,TilburgStudy,30, University students (Netherlands),"Meslec et al., 2016"
+Field Sample 12,Hopkins2015,21,MBA students (US),Unpublished
+Field Sample 13,Hopkins2016,17,MBA students (US),Unpublished
+Lab Sample 1,Synchrony,147,University students (US),"Chikersal et al., 2017"
+Lab Sample 2,XvalStudy,68,General public (US),"Engel et al., 2014; Amelkin et al., 2018"
+Lab Sample 3,T1T2CrowdflowerJoint,63,Crowd workers (US),Unpublished
+Lab Sample 4,Kiwon,59,General Public (US),Unpublished
+Lab Sample 5,CMUGenderStatusStudy,50,General Public (US),Under review
+Lab Sample 6,Bots,37,Crowd workers (US),"Gupta et al., 2019"
+Lab Sample 7,T1T2CMUSO2013,38,General Public (US),Unpublished
+Lab Sample 8,T1T2CMUSO2015,32,General Public (US),Unpublished
+Lab Sample 9,T1T2CrowdflowerRound1,39,Crowd workers (US),Unpublished
